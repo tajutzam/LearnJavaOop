@@ -20,7 +20,7 @@ public class VariableHiding {
         
         Parent parent=child;
         parent.doIt();
-        System.out.println(parent.name);
+        System.out.println(parent.name);//hiding 
         
     }
     
