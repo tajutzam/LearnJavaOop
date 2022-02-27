@@ -35,8 +35,7 @@ class Manager extends Pholimorpisme{
         System.out.println("Hello from Manager my name "+this.name);
         
     }
-    
-    
+
 }
 class VicePrecident extends Manager{
 
